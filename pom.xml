@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.alura</groupId>
+    <artifactId>screenmatch</artifactId>
+    <version>1</version>
+    <properties>
+        <maven.compiler.source>1.22</maven.compiler.source>
+        <maven.compiler.target>1.22</maven.compiler.target>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.6</version>
+        </dependency>
+    </dependencies>
+</project>
